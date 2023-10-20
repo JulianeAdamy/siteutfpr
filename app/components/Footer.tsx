@@ -7,13 +7,13 @@ const kaushan = Kaushan_Script({
 export default function Footer () {
     return (
         <footer id="contato" className="mt-16">
-            <div className="text-center py-8 border-t border-[#000000] text-black md:flex itens-center justify-between">
+            <div className="text-center py-8 border-t border-[#808080] text-black md:flex itens-center justify-between">
                 <p className={kaushan.className} >© UTFPR 2023</p>
             </div>
-            <div className=" text-4xl text-left space-x-4">
+            <div className="flex justify-end text-4xl text-center space-x-4">
                 <a href="">
                     <svg
-                        fill="black"
+                        fill="silver"
                         xmlns="http://www.w3.org/2000/svg"
                         height="1em"
                         viewBox="0 0 512 512"
@@ -24,7 +24,7 @@ export default function Footer () {
                 </a>
                 <a href="">
                     <svg
-                        fill="black"
+                        fill="silver"
                         xmlns="http://www.w3.org/2000/svg"
                         height="1em"
                         viewBox="0 0 448 512"
@@ -35,7 +35,7 @@ export default function Footer () {
                 </a>
                <a href="httt://www.facebook.com/seuenderece">
                     <svg
-                        fill="black"
+                        fill="silver"
                         xmlns="http://www.w3.org/2000/svg"
                         height="1em"
                         viewBox="0 0 512 512"
