@@ -6,7 +6,7 @@ export default function Courses() {
                     CONHEÇA NOSSOS <span>CURSOS</span>
                 </h2>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
                     <img className="hover:scale-105" src="/img/html.svg" alt="" />
                     <div className="text-white text-center">
@@ -15,7 +15,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_css.html">
                     <img src="/img/css.svg" alt="" />
                     <div className="text-white text-center">
@@ -24,7 +24,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_js.html">
                     <img src="/img/js.svg" alt="" />
                     <div className="text-white text-center">
@@ -33,7 +33,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
                     <img src="/img/design.svg" alt="" />
                     <div className="text-white text-center">
@@ -42,7 +42,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
                     <img src="/img/games.svg" alt="" />
                     <div className="text-white text-center">
@@ -51,7 +51,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="bg-[#4d4d4d] rounded-md pb-2">
+            <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
                     <img src="/img/robot.svg" alt="" />
                     <div className="text-white text-center">

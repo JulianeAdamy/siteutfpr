@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="text-center text-white py-8 border-b border-[#4d4d4d] md:flex itens-center justify-between">
+        <header className="text-center text-white py-8 border-b border-[#000000] md:flex itens-center justify-between">
             <h4>UTFPR</h4>
             <nav>
                 <a 
@@ -9,13 +9,13 @@ export default function Header() {
                 >
                     Discover
                 </a>
-                <a className="hover:text-[#00e77f]" href="#cursos">
+                <a className="hover:text-[#C0C0C0]" href="#cursos">
                     Templates &nbsp;
                 </a>
-                <a className="hover:text-[#00e77f]" href="#contato">
+                <a className="hover:text-[#C0C0C0]" href="#contato">
                     Mockups &nbsp;{" "}
                 </a>
-                <a className="hover:text-[#00e77f]" href="#">
+                <a className="hover:text-[#C0C0C0]" href="#">
                     Graphics &nbsp;
                 </a>
             </nav>
