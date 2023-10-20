@@ -4,7 +4,7 @@ export default function Header() {
             <h4>UTFPR</h4>
             <nav>
                 <a 
-                    className="text-[#C0C0C0] bg-white px-2 py-[4px] rounded hover:bg-[#000000] hover:text-white"
+                    className="text-[#C0C0C0] bg-black px-2 py-[4px] rounded hover:bg-[#000000] hover:text-white"
                     href="#"
                 >
                     Discover
