@@ -1,19 +1,19 @@
 export default function Header() {
     return (
         <header className="text-center text-white py-8 border-b border-[#4d4d4d] md:flex itens-center justify-between">
-            <h4>🏫ESCOLA TECNOLÓGICA📘</h4>
+            <h4>UTFPR</h4>
             <nav>
                 <a className="hover:text-[#00e77f]" href="#">
-                    Home &nbsp;
+                    Discover &nbsp;
                 </a>
                 <a className="hover:text-[#00e77f]" href="#cursos">
-                    Cursos &nbsp;
+                    Templates &nbsp;
                 </a>
                 <a className="hover:text-[#00e77f]" href="#contato">
-                    Contato &nbsp;{" "}
+                    Mockups &nbsp;{" "}
                 </a>
                 <a className="hover:text-[#00e77f]" href="#">
-                    Login &nbsp;
+                    Graphics &nbsp;
                 </a>
             </nav>
         </header>
