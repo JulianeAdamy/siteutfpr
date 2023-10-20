@@ -75,7 +75,7 @@ export default function Footer () {
                     </svg>
                 </a>
             </div>
-            <div className="text-center text-black mt-8 border-t">
+            <div className="text-center text-black py-8 border-b border-[#000000] md:flex itens-center justify-between">
                 <p className={kaushan.className} >© UTFPR 2023</p>
             </div>
         </footer>
