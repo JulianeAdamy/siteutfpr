@@ -8,7 +8,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/e19f8ca6-62ff-41c9-a22a-3755dc87b2ef" alt="" />
+                    <img className="hover:scale-105" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/3be4b90a-0437-4370-9a98-36f20362b08e" alt="" />
                     <div className="text-white text-center">
                         <h3>Curso de HTML</h3>
                         <p>O curso é realizado por profissionais..</p>
@@ -26,7 +26,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_js.html">
-                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/24fdb27c-365e-4235-99ca-d5cc20f5ec4c" alt="" />
+                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/0bed05e5-2a3d-4835-9f28-d83f02896d6f" alt="" />
                     <div className="text-white text-center">
                         <h3>Curso de JS</h3>
                         <p>O curso é realizado por profissionais..</p>
@@ -35,7 +35,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
-                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/ace9daec-e5af-4d7e-9fe8-2034a48283b7" alt="" />
+                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/72607c62-a0b0-403b-b60a-a7949a5d52b9" alt="" />
                     <div className="text-white text-center">
                         <h3>Curso de DESIGN</h3>
                         <p>O curso é realizado por profissionais..</p>
@@ -44,7 +44,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
-                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/5e54835a-152c-4067-b4c6-9c16a1b238d5" alt="" />
+                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/da82fdc4-580b-421f-a332-46af76b976c6" alt="" />
                     <div className="text-white text-center">
                         <h3>Curso de GAMES</h3>
                         <p>O curso é realizado por profissionais..</p>
