@@ -3,7 +3,8 @@ export default  function Banner() {
         <div>
             <div className="md:flex items-center flex-row-reverse">
                 <div className="basis-1/2">
-                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/febf4fdb-0b2e-4ffb-a2d9-6145e015aee5" alt="Descrição da Imagem" />
+                    <img src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/1220d0ea-69cd-4e6a-bea8-b468bc9cdc06" alt="Descrição da Imagem" />
+                   
                 </div>
                 <div className="basis-1/2 text-center text-black">
                     <h2>E-Commerce Powerhouse</h2>
