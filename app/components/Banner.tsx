@@ -2,7 +2,7 @@ export default  function Banner() {
     return (
         <div>
            <div className="flex items-center justify-center h-screen text-center text-black">
-  <div className="flex items-center space-x-20 ">
+  <div className="flex items-center">
     <div className="mr-4" style={{ fontSize: '50px' }}>
       <h2>E-Commerce Powerhouse</h2>
       <h3>Made by UTFPR</h3>

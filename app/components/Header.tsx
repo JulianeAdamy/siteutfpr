@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="text-center text-black py-16 border-b border-[#000000] md:flex itens-center justify-between">
+        <header className="space-x-20 text-center text-black py-16 border-b border-[#000000] md:flex itens-center justify-between">
             <h4>UTFPR</h4>
             <nav>
                 <a 
