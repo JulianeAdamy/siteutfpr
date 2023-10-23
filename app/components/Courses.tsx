@@ -6,10 +6,10 @@ export default function Courses() {
                     Latest <span>Drops</span>
                 </h2>
             </div>
-            <div className="bg-[#FFFFFF] rounded-md pb-8 border border-gray-300">
+            <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
   <a href="/curso_html.html">
     <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/3be4b90a-0437-4370-9a98-36f20362b08e" alt="" />
-    <div className="text-black text-left">
+    <div className="pb-6 text-black text-left">
     
     <h3>ipad pro 05 standar...          $22</h3>
       <p className="text-gray-500">f11bc5b1 Photoshop</p>
