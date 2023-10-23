@@ -12,7 +12,8 @@ export default function Courses() {
     <div className="text-black text-left space-x-4">
     
     <h3>        </h3>
-    <p className="text-black-500"></p>
+    <p></p>
+    <p></p>
     <p className="text-black-500">ipad pro 05 standar...          $22</p>
       <p className="text-gray-500">f11bc5b1 Photoshop</p>
     </div>
