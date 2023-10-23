@@ -3,15 +3,15 @@ export default function Courses() {
         <main className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center">
                 <h2 id="cursos">
-                    CONHEÇA NOSSOS <span>CURSOS</span>
+                    Latest <span>Drops</span>
                 </h2>
             </div>
             <div className="bg-[#000000] rounded-md pb-2">
                 <a href="/curso_html.html">
                     <img className="hover:scale-105" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/3be4b90a-0437-4370-9a98-36f20362b08e" alt="" />
                     <div className="text-white text-center">
-                        <h3>Curso de HTML</h3>
-                        <p>O curso é realizado por profissionais..</p>
+                        <h3>ipad pro 05 standar...     $22</h3>
+                        <p>f11bc5b1 Photoshop</p>
                     </div>
                 </a>
             </div>
