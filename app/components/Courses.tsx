@@ -9,9 +9,10 @@ export default function Courses() {
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
   <a href="/curso_html.html">
     <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/3be4b90a-0437-4370-9a98-36f20362b08e" alt="" />
-    <div className="text-black text-left space-x-4"style={{ marginLeft: '6mm' }}>
+    <div className="text-black text-left space-x-4">
     
     <h3>        </h3>
+    <p className="text-black-500"></p>
     <p className="text-black-500">ipad pro 05 standar...          $22</p>
       <p className="text-gray-500">f11bc5b1 Photoshop</p>
     </div>
