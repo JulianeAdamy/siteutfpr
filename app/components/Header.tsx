@@ -7,15 +7,15 @@ export default function Header() {
                     className="text-[#C0C0C0] bg-black px-2 py-[4px] rounded hover:bg-[#000000] hover:text-white"
                     href="#"
                 >
-                    Discover
+                    Discover &nbsp;{" "}
                 </a>
-                <a className="space-x-12 hover:text-[#C0C0C0]" href="#cursos">
-                    Templates &nbsp;
+                <a className="hover:text-[#C0C0C0]" href="#cursos">
+                    Templates &nbsp;{" "}
                 </a>
-                <a className="space-x-12 hover:text-[#C0C0C0]" href="#contato">
+                <a className="hover:text-[#C0C0C0]" href="#contato">
                     Mockups &nbsp;{" "}
                 </a>
-                <a className="space-x-12 hover:text-[#C0C0C0]" href="#">
+                <a className="hover:text-[#C0C0C0]" href="#">
                     Graphics &nbsp;
                 </a>
             </nav>
