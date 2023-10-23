@@ -1,7 +1,7 @@
 export default function Courses() {
     return (
         <main className="grid gap-12 md:grid-cols-2 lg:grid-cols-3">
-            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-left text-2xl font-bold">
+            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-left text-2xl">
                 <h2 id="cursos">
                     Latest <span>Drops</span>
                 </h2>
@@ -39,9 +39,9 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center">
+            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center text-2xl">
                 <h2 id="cursos">
-                    Latest <span>Drops</span>
+                    Mockups 
                 </h2>
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
@@ -77,9 +77,9 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center">
+            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center text-2xl">
                 <h2 id="cursos">
-                    Latest <span>Drops</span>
+                    Tempates
                 </h2>
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
@@ -115,9 +115,9 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center">
+            <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center text-2xl">
                 <h2 id="cursos">
-                    Latest <span>Drops</span>
+                    Graphics
                 </h2>
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
@@ -153,9 +153,9 @@ export default function Courses() {
                     </div>
                 </a>
                 </div>
-                <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center">
+                <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center text-2xl">
                 <h2 id="cursos">
-                    Latest <span>Drops</span>
+                    From The <span>Meg</span>
                 </h2>
             </div>
                 <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
