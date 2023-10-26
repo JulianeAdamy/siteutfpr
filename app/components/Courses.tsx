@@ -198,7 +198,7 @@ export default function Courses() {
                 </a>
                 </div>
                  <h3>   </h3>
-                <div className="text-center py-8 border-t border-[#808080] text-[#C0C0C0] md:flex items-center justify-between">
+                <div className="text-center py-8 border-t border-[#808080] text-[#C0C0C0] md:flex items-center justify-between" style={{ marginLeft: '120px', marginRight: '120px' }}>
                 <p className="text-gray-500">76ce1a25 Photoshop</p>
                 </div>
         </main>
