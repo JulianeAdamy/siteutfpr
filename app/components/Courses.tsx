@@ -152,6 +152,12 @@ export default function Courses() {
       <p className="text-gray-500">25162b26 Framer</p>
                     </div>
                 </a>
+                <div>
+ 
+  <hr style={{ border: '2px solid black', width: '100%', margin: '0' }} />
+  
+</div>
+
                 </div>
                 <div className="md:col-span-2 lg:col-span-3 mt-36 text-black text-center text-2xl">
                 <h2 id="cursos">
