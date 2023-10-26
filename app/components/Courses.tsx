@@ -198,7 +198,7 @@ export default function Courses() {
                 </a>
                 </div>
                 <div className="md:col-span-2 lg:col-span-3 mt-16 ">
-                <hr style={{ border: '1px solid silver ', width: '100%', marginLeft: '120px', marginRight: '120px'}} />
+                <hr style={{ border: '1px solid silver ', marginLeft: '120px', marginRight: '120px'}} />
                 </div>
         </main>
 
