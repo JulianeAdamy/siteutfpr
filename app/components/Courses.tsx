@@ -153,7 +153,7 @@ export default function Courses() {
                     </div>
                 </a>
                 </div>
-                <div className="md:col-span-2 lg:col-span-3 mt-4 text-black text-center text-2xl">
+                <div className="md:col-span-2 lg:col-span-3 mt-36 text-black text-center text-2xl">
                 <h2 id="cursos">
                     From The <span>Meg</span>
                 </h2>
