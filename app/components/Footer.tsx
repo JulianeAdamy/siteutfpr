@@ -7,7 +7,7 @@ const kaushan = Kaushan_Script({
 export default function Footer () {
     return (
         <footer id="contato" className="mt-16">
-            <div className="text-center py-8 border-t border-[#808080] text-silver md:flex items-center justify-between" style={{ marginLeft: '20px', marginRight: '20px' }}>
+            <div className="text-center py-8 border-t border-[#808080] text-silver md:flex items-center justify-between" style={{ marginLeft: '60px', marginRight: '60px' }}>
                 <p className={kaushan.className} >© UTFPR 2023</p>
 
                 <div className="flex justify-end text-4xl text-center space-x-4">
