@@ -155,11 +155,14 @@ export default function Courses() {
 
                 </div>
                 
-                <div className="md:col-span-2 lg:col-span-3 mt-36 text-black text-center text-2xl">
-                <hr style={{ border: '2px solid black ', width: '100%', margin: '0', marginTop: '20px' }} />
+                <div className="md:col-span-2 lg:col-span-3 mt-16 ">
+                <hr style={{ border: '2px solid black ', width: '100%', margin: '0'}} />
+                <div
+                className="md:col-span-2 lg:col-span-3 mt-36 text-black text-center text-2xl">
                 <h2 id="cursos">
                     From The <span>Meg</span>
                 </h2>
+            </div>
             </div>
                 <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
