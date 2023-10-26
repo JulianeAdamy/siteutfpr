@@ -77,7 +77,7 @@ export default function Courses() {
                     </div>
                 </a>
             </div>
-            <div className="md:col-span-2 lg:col-span-3 mt-4 space-y-50 text-black text-center text-2xl">
+            <div className="md:col-span-2 lg:col-span-3 mt-15 text-black text-center text-2xl">
                 <h2 id="cursos">
                     Tempates
                 </h2>
