@@ -84,7 +84,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/32eaf62f-9f5c-4181-a3a9-b0a8b9db31f4" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/3be4b90a-0437-4370-9a98-36f20362b08e" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -95,7 +95,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_css.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/1e55cdb3-51c6-40dd-9ca8-2387fe6cd75a" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/62b56b62-bcd2-4512-9d4c-e649f0bc9138" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -106,7 +106,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_js.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/1ce347a0-4bef-4f26-b369-65c449c15771" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/0bed05e5-2a3d-4835-9f28-d83f02896d6f" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -122,7 +122,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/ee7396f1-74d9-480b-b1aa-cda20dd8d205" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/72607c62-a0b0-403b-b60a-a7949a5d52b9" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -133,7 +133,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/22c22d13-a3f2-4a18-934e-23a48e6f8cf1" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/da82fdc4-580b-421f-a332-46af76b976c6" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -144,7 +144,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/8cf8add0-102a-4a08-ba03-084a90a809ab" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/05feca88-5283-415e-aac6-5ba20b209c76" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -166,7 +166,7 @@ export default function Courses() {
             </div>
                 <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/dbb32d5d-98da-4d91-a548-7721f643065a" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/72607c62-a0b0-403b-b60a-a7949a5d52b9" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -177,7 +177,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/fbbd4eee-9c5f-4916-8154-cd613bd5ffd5" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/da82fdc4-580b-421f-a332-46af76b976c6" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
@@ -188,7 +188,7 @@ export default function Courses() {
             </div>
             <div className="bg-[#FFFFFF] rounded-md pb-2 border border-gray-300">
                 <a href="/curso_html.html">
-                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/58ebccb9-9484-4fe2-b4e1-f607299cbb85" alt="" />
+                    <img className="hover:scale-105 rounded-lg" src="https://github.com/JulianeAdamy/siteutfpr/assets/86632678/05feca88-5283-415e-aac6-5ba20b209c76" alt="" />
                     <div className="text-black text-left space-x-4 space-y-4">
     
     <h3>       </h3>
