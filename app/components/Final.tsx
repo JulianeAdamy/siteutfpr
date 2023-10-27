@@ -19,7 +19,7 @@ const Column: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
 export default function Final() {
   return (
-    <div style={{ display: 'flex', justifyContent: 'space-between', marginLeft: '120px', marginRight: '120px', borderTop: '1px solid #000', borderBottom: '1px solid #000' }}>
+    <div style={{ display: 'flex', justifyContent: 'space-between', marginLeft: '120px', marginRight: '120px', margin: '20px 0' }}>
       {/* Coluna 1 - Apenas "UTFPR" */}
       <div
         style={{
