@@ -36,23 +36,24 @@ export default function Final() {
 
       {/* Coluna 2 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
-        <Column>About</Column>
-        <Column>Magazine</Column>
-        <Column>About Us</Column>
+        <Column>Products</Column>
+        <Column>Templates</Column>
+        <Column>Mockups</Column>
+        <Column>Graphics</Column>
       </div>
 
       {/* Coluna 3 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
-        <Column>Help</Column>
-        <Column>Support</Column>
-        <Column>Contact</Column>
+        <Column>About</Column>
+        <Column>magazine</Column>
+        <Column>About us</Column>
       </div>
 
       {/* Coluna 4 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
-        <Column>Legal</Column>
-        <Column>Privacy</Column>
-        <Column>Terms </Column>
+        <Column>Help</Column>
+        <Column>Support</Column>
+        <Column>Contact </Column>
       </div>
 
       {/* Coluna 5 */}
