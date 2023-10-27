@@ -51,14 +51,14 @@ export default function Final() {
       {/* Coluna 4 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <Column>Legal</Column>
-        <Column>Privacy Policy</Column>
+        <Column>Privacy</Column>
         <Column>Terms </Column>
       </div>
 
       {/* Coluna 5 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <Column>Legal</Column>
-        <Column>Privacy Policy</Column>
+        <Column>Privacy </Column>
         <Column>Terms </Column>
       </div>
     </div>
