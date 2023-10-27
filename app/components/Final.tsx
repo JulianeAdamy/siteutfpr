@@ -33,10 +33,9 @@ export default function Final() {
       >
         UTFPR
       </div>
-
-
-      {/* Parte 3 */}
-      <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+      
+{/* Parte 3 */}
+<div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <Column>About</Column>
         <Column>Magazine</Column>
         <Column>About Us</Column>
@@ -56,5 +55,7 @@ export default function Final() {
         <Column>Terms & Conditions</Column>
       </div>
     </div>
+
+      
   );
 }
