@@ -19,7 +19,7 @@ const Column: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
 export default function Final() {
   return (
-    <div style={{ display: 'flex', justifyContent: 'space-between', marginLeft: '120px', marginRight: '120px' }}>
+    <div style={{ display: 'flex', justifyContent: 'space-between', marginLeft: '120px', marginRight: '120px', marginTop: '20px'}}>
       {/* Coluna 1 - Apenas "UTFPR" */}
       <div
         style={{
@@ -52,14 +52,14 @@ export default function Final() {
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <Column>Legal</Column>
         <Column>Privacy Policy</Column>
-        <Column>Terms & Conditions</Column>
+        <Column>Terms </Column>
       </div>
 
       {/* Coluna 5 */}
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <Column>Legal</Column>
         <Column>Privacy Policy</Column>
-        <Column>Terms & Conditions</Column>
+        <Column>Terms </Column>
       </div>
     </div>
   );
