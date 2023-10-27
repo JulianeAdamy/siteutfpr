@@ -19,7 +19,7 @@ const Column: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
 export default function Final() {
   return (
-    <div style={{ display: 'flex', flexDirection: 'column' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '120px', marginRight: '120px' }}>
       {/* Parte 1 */}
       <div
         style={{
@@ -34,13 +34,6 @@ export default function Final() {
         UTFPR
       </div>
 
-      {/* Parte 2 */}
-      <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-        <Column>Products</Column>
-        <Column>Templates</Column>
-        <Column>Mockups</Column>
-        <Column>Graphics</Column>
-      </div>
 
       {/* Parte 3 */}
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
